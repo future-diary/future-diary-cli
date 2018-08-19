@@ -1,6 +1,6 @@
 {
   "name": "future-diary-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CLI for Future Diary",
   "bin": {
     "future-diary": "cli.js"
