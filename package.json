@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/future-diary/future-diary-cli#readme",
   "devDependencies": {
-    "ava": "^0.25.0",
     "xo": "^0.22.0"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
     "commander": "^2.17.1",
     "conf": "^2.0.0",
     "future-diary-sdk": "0.0.5"

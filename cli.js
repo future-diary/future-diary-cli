@@ -3,6 +3,9 @@ const program = require('commander');
 const F = require('./src/future');
 
 program
+	.version(F.version());
+
+program
 	.command('login <username> <password>')
 	.description('Login')
 	.action((username, password) => {
