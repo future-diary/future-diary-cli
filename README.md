@@ -27,6 +27,6 @@ $ future-diary hi lito   # Post status "hi lito"
 - [future-diary-sdk](https://github.com/future-diary/future-diary-sdk) - API for this module
 - [nofan](https://github.com/LitoMore/nofan) - CLI for Fanfou
 
-# License
+## License
 
 MIT © [Future Diary](https://github.com/future-diary)
