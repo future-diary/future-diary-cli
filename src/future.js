@@ -19,7 +19,7 @@ class F {
 		console.log(user);
 	}
 
-	static async update(text) {
+	static update(text) {
 		return f.post('/statuses/update', {status: text, source: 'Future'});
 	}
 

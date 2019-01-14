@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/future-diary/future-diary-cli#readme",
   "devDependencies": {
-    "xo": "^0.22.0"
+    "xo": "^0.24.0"
   },
   "dependencies": {
     "chalk": "^2.4.1",
