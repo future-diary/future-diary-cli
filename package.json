@@ -24,7 +24,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.17.1",
-    "conf": "^4.0.0",
+    "conf": "^5.0.0",
     "future-diary-sdk": "0.0.5"
   }
 }
