@@ -25,6 +25,6 @@
     "chalk": "^3.0.0",
     "commander": "^2.20.0",
     "conf": "^6.1.0",
-    "future-diary-sdk": "0.0.5"
+    "future-diary-sdk": "0.0.6"
   }
 }
