@@ -5,6 +5,9 @@
   "bin": {
     "future-diary": "cli.js"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "scripts": {
     "test": "xo"
   },
@@ -19,7 +22,7 @@
   },
   "homepage": "https://github.com/future-diary/future-diary-cli#readme",
   "devDependencies": {
-    "xo": "^0.25.3"
+    "xo": "^0.38.2"
   },
   "dependencies": {
     "chalk": "^3.0.0",
