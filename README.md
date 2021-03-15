@@ -1,7 +1,5 @@
 # future-diary-cli
 
-[![](https://badges.greenkeeper.io/future-diary/future-diary-cli.svg)](https://greenkeeper.io/)
-[![](https://img.shields.io/travis/future-diary/future-diary-cli/master.svg)](https://travis-ci.org/future-diary/future-diary-cli)
 [![](https://img.shields.io/npm/v/future-diary-cli.svg)](https://www.npmjs.com/package/future-diary-cli)
 [![](https://img.shields.io/npm/l/future-diary-cli.svg)](https://github.com/future-diary/future-diary-cli/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
